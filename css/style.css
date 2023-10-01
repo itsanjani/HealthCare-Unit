@@ -1,0 +1,21 @@
+.slider{
+    background-image: url('../images/slides/slide1/bg.jpg');
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 150px;
+}
+
+.text-gray{
+    color: #3b3b3b;
+}
+
+.bg-gray{
+    background: #494747;
+}
+
+.review{
+    background-image: url('../images/parallax/1.jpg');
+    height: auto;
+}
+
